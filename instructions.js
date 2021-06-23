@@ -4,7 +4,7 @@
 // Your job is to use the Dog.js file from React Debrief 1 (also in this folder) to create the same app
 // with seperate components
 
-// begin by creating the boilerplate version of the app by running 'npm create-react-app dogimageapp'. This may take a while.
+// begin by creating the boilerplate version of the app by running 'npx create-react-app dogimageapp'. This may take a while.
 // move into this folder and write 'npm start' to start a live version of the app
 // you can begin, if you want, by moving the Dog.js file and replacing the App.js to get it working like in debrief 1
 
